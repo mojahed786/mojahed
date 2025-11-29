@@ -51,12 +51,12 @@ export default function Hero() {
   const socialLinks = [
     {
       icon: <Github className="w-5 h-5" />,
-      // href: "https://github.com/mdzikrullah20",
+      href: "https://github.com/mojahed786",
       label: "GitHub",
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
-      // href: "https://www.linkedin.com/in/md-zikrullah/",
+      href: "https://www.linkedin.com/in/mojahedul-islam-b376b3373/",
       label: "LinkedIn",
     },
     {
@@ -65,8 +65,8 @@ export default function Hero() {
       label: "Twitter",
     },
     {
-      icon: <Mail className="w-5 h-5" />,
-      // href: "mailto:work.zikrullah@gmail.com",
+      icon: <Mail className="w-5 h-5"/>,
+      href: "mailto:mojahedulislam2003@gmail.com",
       label: "Email",
     },
   ];
