@@ -21,7 +21,7 @@ const mulish = Mulish({
 });
 // ✅ SEO Metadata
 export const metadata: Metadata = {
-  title: "Md Zikrullah | Frontend Developer",
+  title: "Mojahed | Developer",
   description:
     "Portfolio of Md Zikrullah, a frontend developer specializing in React and Next.js.",
   keywords: [
