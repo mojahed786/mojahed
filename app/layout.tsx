@@ -23,7 +23,7 @@ const mulish = Mulish({
 export const metadata: Metadata = {
   title: "Mojahed | Developer",
   description:
-    "Portfolio of Md Zikrullah, a frontend developer specializing in React and Next.js.",
+    "Portfolio of Mojahed, a software developer specializing in React and Next.js.",
   keywords: [
     "Frontend Developer",
     "React",
