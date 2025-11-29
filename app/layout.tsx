@@ -32,19 +32,19 @@ export const metadata: Metadata = {
     "JavaScript",
     "TypeScript",
   ],
-  authors: [{ name: "Md Zikrullah", url: "https://yourwebsite.com" }],
+  authors: [{ name: "Mojahed", url: "https://yourwebsite.com" }],
   openGraph: {
-    title: "Md Zikrullah | Frontend Developer",
+    title: "Mojahed |software | Developer",
     description:
-      "Portfolio of Md Zikrullah, a frontend developer specializing in React and Next.js.",
+      "Portfolio of Mojahed, a frontend developer specializing in React and Next.js.",
     url: "https://yourwebsite.com",
-    siteName: "Md Zikrullah Portfolio",
+    siteName: "Mojahed Portfolio",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Md Zikrullah Portfolio",
+        alt: "Mojahed Portfolio",
       },
     ],
     locale: "en_US",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Md Zikrullah | Frontend Developer",
+    title: "Mojahed | software Developer",
     description:
       "Portfolio of Your Name, a frontend developer specializing in React and Next.js.",
     images: ["/og-image.png"],
