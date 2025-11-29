@@ -51,22 +51,22 @@ export default function Hero() {
   const socialLinks = [
     {
       icon: <Github className="w-5 h-5" />,
-      href: "https://github.com/mdzikrullah20",
+      // href: "https://github.com/mdzikrullah20",
       label: "GitHub",
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
-      href: "https://www.linkedin.com/in/md-zikrullah/",
+      // href: "https://www.linkedin.com/in/md-zikrullah/",
       label: "LinkedIn",
     },
     {
       icon: <Twitter className="w-5 h-5" />,
-      href: "https://x.com/MdZikru57949319",
+      // href: "https://x.com/MdZikru57949319",
       label: "Twitter",
     },
     {
       icon: <Mail className="w-5 h-5" />,
-      href: "mailto:work.zikrullah@gmail.com",
+      // href: "mailto:work.zikrullah@gmail.com",
       label: "Email",
     },
   ];
@@ -177,7 +177,7 @@ export default function Hero() {
             {socialLinks.map((link, index) => (
               <motion.a
                 key={index}
-                href={link.href}
+                // href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.2, rotate: 5 }}

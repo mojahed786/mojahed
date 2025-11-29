@@ -135,7 +135,7 @@ export default function AboutPage() {
                     <strong className="text-white">
                       Frontend Development:
                     </strong>{" "}
-                    uilding responsive, dynamic, and modern UIs using React.js, Next.js, and Tailwind CSS
+                    Building responsive, dynamic, and modern UIs using React.js, Next.js, and Tailwind CSS
                   </span>
                 </li>
                 <li className="flex items-start text-gray-300">
